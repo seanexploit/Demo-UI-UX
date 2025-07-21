@@ -1,4 +1,4 @@
-# ✈️ Vpilavoyage - Travel Booking App
+# ✈️ Voilavoyage - Travel Booking App
 
 **Vpilavoyage** is a mobile travel application designed to help users easily search and book **flights**, **hotels**, or both. The app provides a clean and intuitive interface tailored for a smooth booking experience.
 
